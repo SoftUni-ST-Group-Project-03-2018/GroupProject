@@ -24,6 +24,7 @@ nd character after the decimal point**.
 | 12.33    |  61.65    |
 |  5       |           |
 
+
 ### Problem 3. Miles to Kilometers
 
 Write a program, which **converts miles** to **kilometers**. **Format** the output
