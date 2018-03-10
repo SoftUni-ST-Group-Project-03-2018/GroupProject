@@ -1,13 +1,71 @@
 # GroupProject
 Programming fundamentals (Software technologies) Repository  
-Read me editted by Ivaylo at 19:57 08.03.2018
-Adding one row
-<br />
-Read me editted by Pancho at 20:05 08.03.2018
-Adding one row
-<br />
-Read me editted by Teodor at 20:27 08.03.2018
-Adding one row
-<br />
-Read me editted by Simeon at 23:12 08.03.2018
-Adding one row
+
+### Problem 3.                 
+Miles to Kilometers
+
+Write a program, which **converts****miles** to **kilometers**. **Format** the output
+to the **2
+
+nd decimal place**.
+
+Note: **1 mile ==
+1.60934 kilometers**
+
+#### Examples
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+** **
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
+
+60
+
+ 
+
+96.56
+
+ 
+
+1
+
+ 
+
+1.61
+
+ 
+
+52.1113
+
+ 
+
+83.86
