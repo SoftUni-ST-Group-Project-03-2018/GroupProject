@@ -6,7 +6,18 @@ namespace DebitCardNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int lines  = 4;
+            string pan = "";
+
+            while (lines > 0)
+            {
+                int digits = int.Parse(Console.ReadLine());
+                pan += $"{digits:D4} ";
+
+                lines--;
+            }
+
+            Console.WriteLine(pan.Trim());
         }
     }
 }
