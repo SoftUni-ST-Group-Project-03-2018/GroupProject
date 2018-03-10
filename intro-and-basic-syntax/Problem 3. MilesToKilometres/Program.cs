@@ -6,7 +6,7 @@ namespace MilesToKilometres
     {
         static void Main(string[] args)
         {
-            //We recieve from the Console the distance in miles -> a integer; 
+            //We recieve from the Console the distance in miles -> an integer; 
             double a = double.Parse(Console.ReadLine());
 
             //We calculate the distance from miles to kilometers using the formula 1 mile = 1.60934 km
