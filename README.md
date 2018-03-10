@@ -1,7 +1,7 @@
 ﻿# GroupProject
 Programming fundamentals (Software technologies) Repository  
 
-### Problem 1.                 
+### Problem 2.                 
 Rectangle Area
 
 Write a program, which calculates a **rectangle’s area**, based on its **width**
