@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from kavier
+using System;
 
 namespace DebitCardNumber
 {
@@ -7,8 +8,8 @@ namespace DebitCardNumber
         static void Main(string[] args)
         {
             // Pan number pieces
-            int lines  = 4;
-            
+            int lines = 4;
+
             // Pan number containts (~>2019 pan numbers contains 4 pieces)
             string pan = "";
 
