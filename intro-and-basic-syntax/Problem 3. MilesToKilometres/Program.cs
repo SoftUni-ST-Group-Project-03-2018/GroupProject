@@ -12,7 +12,7 @@ namespace MilesToKilometres
             //We calculate the distance from miles to kilometers using the formula 1 mile = 1.60934 km
             double km = a * 1.60934;
 
-            //The Console is printing our result 
+            //The Console is printing our result formatted to the 2nd character after the decimal point
             Console.WriteLine($"{km:f2}");
         }
     }
