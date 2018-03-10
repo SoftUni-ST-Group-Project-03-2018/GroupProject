@@ -6,13 +6,15 @@ namespace Problem_2._Rectangle_Area
     {
         static void Main(string[] args)
         {
-            var number1 = double.Parse(Console.ReadLine());
-            var number2 = double.Parse(Console.ReadLine());
+			// We receive rectamgle sides (a & b)
+            var sideA = double.Parse(Console.ReadLine());
+            var sideB = double.Parse(Console.ReadLine());
 
-            var area = number1 * number2;
+			// Calculating rectamgle area
+            var area = sideA * sideB;
 
+			// Printing rectamgle area with format "$.00"
             Console.WriteLine($"{area:f2}");
-
         }
     }
 }
