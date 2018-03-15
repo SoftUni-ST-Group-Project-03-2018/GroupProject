@@ -121,7 +121,7 @@ Write a program, which **displays information** about a video game character. Yo
 | **Input** |            **Output**          |   
 | --------- | ------------------------------ |
 | Loogi     | Name: Loogi                    |
-| 8         | Health: |||||||||............| |
+| 8         | Health: \|\|\|\|\|\|\|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
 | 20        | Energy: |||............|       |
 | 2         |                                |
 | 14        |                                |
