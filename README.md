@@ -103,8 +103,8 @@ Write a program, which **displays information** about a video game character. Yo
 | **Input** |            **Output**          |   
 | --------- | ------------------------------ |
 | Mayro     | Name: Mayro                    |
-| 5         | Health: ||||||.....|           |
-| 10        | Energy: ||||||||||.|           |
+| 5         | Health: \|\|\|\|\|\|\.\.\.\.\.\|           |
+| 10        | Energy: \|\|\|\|\|\|\|\|\|\|\.\|           |
 | 9         |                                |
 | 10        |                                |
 
@@ -112,8 +112,8 @@ Write a program, which **displays information** about a video game character. Yo
 | **Input** |            **Output**          |   
 | --------- | ------------------------------ |
 | Bauser    | Name: Bauser                   |
-| 10        | Health: ||||||||||||           |
-| 10        | Energy: ||||||||||||           |
+| 10        | Health: \|\|\|\|\|\|\|\|\|\|\|\|           |
+| 10        | Energy: \|\|\|\|\|\|\|\|\|\|\|\|           |
 | 10        |                                |
 | 10        |                                |
 
@@ -122,7 +122,7 @@ Write a program, which **displays information** about a video game character. Yo
 | --------- | ------------------------------ |
 | Loogi     | Name: Loogi                    |
 | 8         | Health: \|\|\|\|\|\|\|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\| |
-| 20        | Energy: |||............|       |
+| 20        | Energy: \|\|\|\.\.\.\.\.\.\.\.\.\.\.\.\|       |
 | 2         |                                |
 | 14        |                                |
 
@@ -130,8 +130,8 @@ Write a program, which **displays information** about a video game character. Yo
 | **Input** |            **Output**          |   
 | --------- | ------------------------------ |
 | Toad      | Name: Toad                     |
-| 0         | Health: |.....|                |
-| 5         | Energy: |..........|           |
+| 0         | Health: \|\.\.\.\.\.\|                |
+| 5         | Energy: \|\.\.\.\.\.\.\.\.\.\.\|           |
 | 0         |                                |
 | 10        |                                |
 
